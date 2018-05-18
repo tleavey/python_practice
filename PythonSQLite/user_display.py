@@ -2,7 +2,7 @@
 # SUPERHERO APP
 
 # This program does NOT used prepared statements, meaning it's vulnerable to SQL injections.
-# This was intentional as a lesson in what NOT to do.
+# This was intentional as a lesson in what NOT to do. ;)
 
 import sys
 import sqlite3
