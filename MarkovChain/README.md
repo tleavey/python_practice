@@ -6,7 +6,7 @@ It will output up to 1,000 words.
 # Things to note
 Code Language Used: Python
 
-markovEngine.py uses some snippets of code from the book:
+markovEngine.py uses code from the book:
 Reed & Zelle Data Structures and Algorithms Using Python and C++
 
 wordsToPredict.txt is the beginning of the book The Name of the Wind by Patrick Rothfuss.
